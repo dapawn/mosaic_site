@@ -162,7 +162,7 @@ function App() {
         <p>.</p>
       </div>
       <div className="col s12 l5 offset-l2">
-        <form action="http://localhost:5001/mosaicphillyne/us-central1/emailMessage">
+        <form action="mailto:dapawn@gmail.com">
           <div className="input-field">
             <i className="material-icons prefix">email</i>
             <input type="email" id="email" />
